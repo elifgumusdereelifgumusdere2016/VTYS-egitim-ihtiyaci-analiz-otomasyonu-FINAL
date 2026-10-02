@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>merhaba</p>
+
+    <h1>baslık1</h1>
+    <h2>baslık2</h1>
+    <h3>baslık3</h1>
+
+    <center><h1> SAYFAMA HOSGELDİNİZ </h1></center>
+    <p>HTML etiketleri ile </p>yazılar <b>koyu</b> <i>italik </i> <u>altı çizili</u> olarak yazabiliyorum
+    
+    <br>pazartesi</br>salı<br>carsamba<br>persembe<br>cuma<br>
+
+    <font color="green" size="20">ilkbahar</font><br>
+    <font color="red" size="15">yaz</font><br>
+    <font color="orange" size="10">sonbahar</font><br>
+    <font color="blue" size="5">kış</font><br>
+
+    <ol type="1">
+    <li>Bilgisayar
+    <ol type="a">
+    <li>blg 318
+    <li>blg 416
+    <li>blg 101
+    
+    </ol>
+    <li> Makine
+    <ol type="a">
+    <li>tsk 314
+    <li>tsk 413
+    <li> tsk 214
+
+        <ul type="disc">
+<li>Kimya
+<ul type="square">
+<li>blg 318
+<li>blg 416
+<li>blg 101
+</ul>
+<li> fizik
+<ul type="circle">
+<li>tsk 314
+<li>tsk 413
+<li> tsk 214<br>
+
+<img src="c:\Users\elifg\Pictures\20240703_153922.jpg"width="272"
+
+
+</body>
+</html>
